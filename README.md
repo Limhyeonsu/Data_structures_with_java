@@ -12,18 +12,18 @@
 * 이중연결리스트
 * 원형연결리스트
 
-## 3. 스택과 큐
+## [3. 스택과 큐](https://github.com/Limhyeonsu/Data_structures_with_java/blob/main/03.%EC%8A%A4%ED%83%9D%EA%B3%BC%20%ED%81%90.md)
 * 스택
 * 큐
 * 데크
 
-## 4. 트리
+## [4. 트리](https://github.com/Limhyeonsu/Data_structures_with_java/blob/main/04.%ED%8A%B8%EB%A6%AC.md)
 * 트리
 * 이진트리
 * 이진트리의 연산
 * 상호배타적 집합을 위한 트리 연산
 
-## 5. 탐색트리
+## [5. 탐색트리](https://github.com/Limhyeonsu/Data_structures_with_java/blob/main/05.%ED%83%90%EC%83%89%ED%8A%B8%EB%A6%AC.md)
 * 이진탐색트리
 * AVL트리
 * 2-3트리
